@@ -7,9 +7,8 @@ Built with a focus on accessibility, responsiveness, and seamless user experienc
 
 ## 🎥 Demo
 
-<video src="final%20review%20(1).mp4" controls width="700">
-  Your browser does not support the video tag.
-</video>
+[▶️ Watch Demo Video](BlissBloom_demo.mp4)
+
 
 
 
