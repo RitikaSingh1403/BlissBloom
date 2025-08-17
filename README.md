@@ -7,7 +7,7 @@ Built with a focus on accessibility, responsiveness, and seamless user experienc
 
 ## 🎥 Demo
 
-[(https://github.com/user848403/BlissBloom/blob/main/BlissBloom_demo.mp4)]
+BlissBloom_demo.mp4
 
 
 
