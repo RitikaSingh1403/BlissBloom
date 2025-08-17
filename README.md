@@ -6,7 +6,7 @@ Built with a focus on accessibility, responsiveness, and seamless user experienc
 
 
 ## 🎥 Demo
-## 🎥 Demo
+
 [▶️ Watch Demo Video](finalreview(1).mp4)
 
 
