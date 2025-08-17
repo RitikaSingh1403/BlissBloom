@@ -3,14 +3,11 @@
 **BlissBloom** is a mental wellness web platform that helps users boost their mood by recommending personalized self-care activities such as music, recipes, movies, and exercises.  
 Built with a focus on accessibility, responsiveness, and seamless user experience.
 
----
+
 
 ## 🎥 Demo
-👉 [Watch Demo Video](final review (1).mp4)  
+Watch final review (1).mp4 
 
-
-
----
 
 ## ✨ Features
 - 🔐 **Secure Login/Signup** – Authentication system for user accounts.  
@@ -18,7 +15,7 @@ Built with a focus on accessibility, responsiveness, and seamless user experienc
 - 🛠️ **Error-Handled Testing** – Reduced runtime and integration issues.  
 - 📱 **Responsive UI** – Optimized for desktop and mobile.  
 
----
+
 
 ## 🛠️ Tech Stack
 - **Frontend:** HTML, CSS, JavaScript  
@@ -27,7 +24,7 @@ Built with a focus on accessibility, responsiveness, and seamless user experienc
 - **Machine Learning:** Mood detection & recommendations  
 - **Design:** Figma  
 
----
+
 
 ## 🚀 Getting Started
 
