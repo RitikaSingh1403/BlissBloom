@@ -43,15 +43,15 @@ git clone https://github.com/user848403/BlissBloom.git
 # Import the provided SQL file into MySQL database
 
 ````
-##👩‍💻 Team & Contributions
+## 👩‍💻 Team & Contributions
 
 Developed by a team of 5
 
 My Contributions: Authentication, Song Recommendation Engine, Debugging/Testing
 
-##📝 License
+## 📝 License
 
 This project is open-source. Feel free to use and improve!
 
 
-#⭐ If you like this project, don’t forget to star the repo !
+# ⭐ If you like this project, don’t forget to star the repo !
