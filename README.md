@@ -53,5 +53,6 @@ My Contributions: Authentication, Song Recommendation Engine, Debugging/Testing
 
 This project is open-source. Feel free to use and improve!
 
+--- 
 
-# ⭐ If you like this project, don’t forget to star the repo !
+ ⭐ If you like this project, don’t forget to star the repo !
