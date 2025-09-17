@@ -37,7 +37,7 @@ https://github.com/user-attachments/assets/0a54f556-e673-4c7d-bfa0-cdc55455ad80
 ### Installation
 ```bash
 # Clone the repo
-git clone https://github.com/user848403/BlissBloom.git
+git clone https://github.com/RitikaSingh1403/BlissBloom.git
 
 # Open in XAMPP/htdocs and start Apache + MySQL
 # Import the provided SQL file into MySQL database
